@@ -81,3 +81,7 @@
       "password": "password"
 },
 ```
+
+## Unit Tests
+
+- You can run ```rspec``` in Rails Console to run simple unit tests for the project
