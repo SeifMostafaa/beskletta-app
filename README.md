@@ -73,7 +73,7 @@
     },
 ```
 
-### Bicycles
+### Admin Users
 ```
   {
       "id": 1,
