@@ -19,7 +19,7 @@
 
 * You can access visitors website by accessing ```http://localhost:3000/``` and access the admin part by accessing ```http://localhost:3000/admin``` 
 
-## For Testing Telegram Bot ⚡
+## ⚡ For Testing Telegram Bot
 - Put your Telegram bot HTTP API Token in ```app_config.yml``` as 'TELEGRAM_BOT_TOKEN' value
 - ```ngrok http 3000```
 - Copy the website link (for example: "https://d5a8-41-239-120-73.ngrok-free.app/") to ```config.hosts << "d5a8-41-239-120-73.ngrok-free.app"``` line in ```development.rb``` file
