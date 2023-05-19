@@ -31,7 +31,7 @@ class PhotoUploader < CarrierWave::Uploader::Base
     "/assets/defaults/#{model.class.to_s.underscore}.jpg"
   end
 
-  def extension_whitelist
+  def extension_allowlist
     %w[jpg jpeg gif png webp]
   end
 end

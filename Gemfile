@@ -66,7 +66,6 @@ end
 
 group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
-  gem "capybara"
   gem "selenium-webdriver"
   gem "webdrivers"
 end
@@ -86,3 +85,5 @@ gem "carrierwave-base64"
 gem "carrierwave-aws"
 gem "rest-client"
 gem 'telegram-bot'
+gem 'rspec-rails'
+gem 'capybara'
